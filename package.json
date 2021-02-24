@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-warc": "^3.3.1"
+  }
+}
