@@ -21,7 +21,7 @@ After getting my bearings, I edited my program to look for "covid", and add the 
 I then added the check for the economy, and made the program write to a file.
 The final few hours was spent trying out ways to make the program more accurate with its hits. 
 To find relevant sites, I use keywords and look for at least 3 hits for "coronavirus" or "covid" and 3 hits for "economy" or "market".
-However, there are still many irrelevant hits because front pages of sites cause false hits because there may be many articles listed that have the keywords in the title, but no actual article. A similar problem occurs when a website has recommended future reading.
+However, there are still many irrelevant hits. Front pages of sites cause false hits because there may be many articles listed that have the keywords in the title, but no actual article. A similar problem occurs when a website has recommended future reading.
 
 To improve the accuracy, there are two ways I can think to improve the program that I couldn't implement today:
 
