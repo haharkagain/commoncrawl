@@ -17,7 +17,7 @@ In addition, it is roughly as fast as Python for working with WARC (https://code
 I started with the given tutorial repository on the assignment, where Node was one of the languages used.
 I spent the first few hours playing around with the tutorial program and figuring out how each part works.
 
-After getting my bearings, I edited my program to look for covid, and add the urls to a list.
+After getting my bearings, I edited my program to look for "covid", and add the urls to a list.
 I then added the check for the economy, and made the program write to a file.
 The final few hours was spent trying out ways to make the program more accurate with its hits. 
 To find relevant sites, I use keywords and look for at least 3 hits for "coronavirus" or "covid" and 3 hits for "economy" or "market".
