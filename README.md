@@ -28,4 +28,4 @@ To find relevant sites, I use keywords and look for at least 3 hits for "coronav
 To improve the accuracy, there are two ways I can think of to add:
 
 - Not allowing roots of websites (checking if the url has at least 4 slashes)
-- Using the News database for commoncrawler, however I couldn't find the paths to that.
+- Using the news database for commoncrawler, however I couldn't find the paths for that.
