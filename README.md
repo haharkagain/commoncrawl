@@ -9,7 +9,8 @@ npm install node-warc
 
 To stop:
 ctrl+C (it writes to file as it goes, so you get all the data you waited for)
-The program can only use one set of paths at a time, but you can set it to any of the 9 path files downloaded from commoncrawl.
+
+The program can only use one set of paths at a time, but you can set it to any of the 9 path files that I downloaded from commoncrawl.
 
 I used Node because I was more comfortable with running and testing on Node than on Python. 
 In addition, it is as fast as Python for working with WARC (https://code402.com/blog/hello-warc-common-crawl-code-samples/).
