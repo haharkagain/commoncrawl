@@ -4,8 +4,7 @@ The repository is missing the node modules folder, but it is simple to install, 
 The output is in urlhits.txt.
 
 To run:
-install node and
-npm install node-warc
+install node and npm install node-warc, then in the command line: node crawl.js
 
 To stop:
 ctrl+C (it writes to file as it goes, so you get all the data you waited for)
