@@ -24,7 +24,7 @@ The final few hours was spent trying out ways to make the program more accurate 
 To find relevant sites, I use keywords and look for at least 3 hits for "coronavirus" or "covid" and 3 hits for "economy" or "market".
 However, there are still many irrelevant hits. Front pages of sites cause false hits because there may be many articles listed that have the keywords in the title, but no actual article. A similar problem occurs when a website has recommended future reading.
 
-To improve the accuracy, there are two ways I can think to improve the program that I couldn't implement today:
+To improve the accuracy, there are a few ways I can think to improve the program that I couldn't implement today:
 
 - Not allowing roots of websites (checking if the url has at least 4 slashes), had some issues with that
 - Using the news database instead of main for commoncrawler, however I couldn't find the paths for that.
