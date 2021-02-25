@@ -1,6 +1,7 @@
 # covid/economy article searcher using commoncrawl
 Tool that looks for articles related to coronavirus and the economy, and outputs the url into a text file.
 The repository is missing the node modules folder, but it is simple to install, and a sizeable fraction of the october path has been parsed.
+The tool is currently configured to just look at October 2020, but there are paths for all of 2020 in the paths folder that can be linked instead.
 The output is in urlhits.txt.
 
 To run:
