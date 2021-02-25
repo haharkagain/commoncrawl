@@ -21,8 +21,11 @@ final decision to do the project in Node.
 
 After getting my bearings, I edited my program to look for covid, and add the urls to a list.
 I then added the check for the economy, and made the program write to a file.
-
+The final few hours was spent trying out ways to make the program more accurate with its hits, however there are still many irrelevant hits.
 
 To find relevant sites, I use keywords and look for at least 3 hits for "coronavirus" or "covid" and 3 hits for "economy" or "market".
-However, the algorithm is spoofed by sites with a lot of useless tagging and front pages that may only have thumbnails with the hits
 
+To improve the accuracy, there are two ways I can think of to add:
+
+- Not allowing roots of websites (checking if the url has at least 4 slashes)
+- Using the News database for commoncrawler, however I couldn't find the paths to that.
