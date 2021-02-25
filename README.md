@@ -4,7 +4,7 @@ The repository is missing the node modules folder, but it is simple to install, 
 The output is in urlhits.txt.
 
 To run:
-install node
+install node and
 npm install node-warc
 
 To stop:
