@@ -15,8 +15,13 @@ I used Node because I was more comfortable with running and testing on Node than
 In addition, it is as fast as Python for working with WARC (https://code402.com/blog/hello-warc-common-crawl-code-samples/).
 
 I started with the given tutorial repository on the assignment, where Node was one of the languages used.
-I 
+I spent the first few hours playing around with the tutorial program and figuring out how each part works, and making the 
+final decision to do the project in Node.
 
-To find relevant sites, I use keywords and look for at least 3 hits for coronavirus or covid, and 3 hits for economy or market.
+After getting my bearings, I edited my program to look for covid, and add the urls to a list.
+I then added the check for the economy, and made the program write to a file.
+
+
+To find relevant sites, I use keywords and look for at least 3 hits for "coronavirus" or "covid" and 3 hits for "economy" or "market".
 However, the algorithm is spoofed by sites with a lot of useless tagging and front pages that may only have thumbnails with the hits
 
