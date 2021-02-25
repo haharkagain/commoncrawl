@@ -27,5 +27,5 @@ However, there are still many irrelevant hits. Front pages of sites cause false 
 To improve the accuracy, there are two ways I can think to improve the program that I couldn't implement today:
 
 - Not allowing roots of websites (checking if the url has at least 4 slashes), had some issues with that
-- Using the news database for commoncrawler, however I couldn't find the paths for that.
+- Using the news database instead of main for commoncrawler, however I couldn't find the paths for that.
 - Using WARC instead of WET files, as they have HTML info and I can only look for keywords inside of specific tags instead of keywords in the whole site.
